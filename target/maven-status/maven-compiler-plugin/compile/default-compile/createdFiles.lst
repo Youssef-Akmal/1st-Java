@@ -1,0 +1,7 @@
+com/example/demo/service/ProductService.class
+com/example/demo/DemoApplication.class
+com/example/demo/repo/ProductRepository.class
+com/example/demo/controller/ProductController.class
+com/example/demo/mapper/ProductMapper.class
+com/example/demo/dto/ProductDTO.class
+com/example/demo/entity/Product.class
